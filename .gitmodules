@@ -1,0 +1,3 @@
+[submodule "immo-project"]
+	path = immo-project
+	url = git@github.com:ValereCode/immo-project.git
