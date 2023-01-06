@@ -3,7 +3,4 @@
 	url = git@github.com:ValereCode/immo-project.git
 [submodule "portofolio"]
 	path = portofolio
-	url = git@github.com:ValereCode/ValereCode.github.io.git
-[submodule "porto"]
-	path = porto
-	url = git@github.com:ValereCode/portofolio.git
+	url = url = git@github.com:ValereCode/portofolio.git
