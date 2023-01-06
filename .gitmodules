@@ -3,4 +3,4 @@
 	url = git@github.com:ValereCode/immo-project.git
 [submodule "portofolio"]
 	path = portofolio
-	url = url = git@github.com:ValereCode/portofolio.git
+	url = git@github.com:ValereCode/portofolio.git
